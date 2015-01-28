@@ -1,4 +1,6 @@
-wp-make
-=======
+Cobbles - a CMS Build Script
+============================
 
-A tool for building a wordpress installation from a list of sources specified in a configuration file.
+Cobbles will be a lightweight cms build script written in bash, which can easily be adapted to work with a variety of content management systems.
+
+It is currently a work in progress.
